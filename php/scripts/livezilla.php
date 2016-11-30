@@ -1,0 +1,4 @@
+<!-- livezilla.net code (PLEASE PLACE IN BODY TAG) -->
+<div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
+var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "http://selfiemais.com.br/livezilla/server.php?a=f8d29&rqst=track&output=jcrpt&intgroup=c3Vwb3J0ZQ__&el=cHQtYnI_&ovlc=I2U4NTM1Ng__&ovlt=RW0gcXVlIHBvc3NvIGFqdWTDoS1sbz8_&ovlto=RGVpeGUgc3VhIG1lbnNhZ2VtLg__&hots=MQ__&eca=MQ__&echt=UHJlY2lzYSBkZSBhanVkYT8_&echst=Q2xpcXVlIGFxdWkgZSBmYWxlIGNvbSBub3NzbyBjb25zdWx0b3I_&ecfe=I0ZGODA4MA__&echc=IzAwMDAwMA__&ecsgs=IzAwMDAwMA__&ecsge=IzAwMDAwMA__&ecsp=MQ__&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="http://selfiemais.com.br/livezilla/server.php?a=f8d29&amp;rqst=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript>
+<!-- http://www.livezilla.net -->
