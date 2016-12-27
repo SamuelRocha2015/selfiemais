@@ -26,16 +26,16 @@ include 'php/header.php';
         <!--============================== slider =================================-->
         <div class="flexslider">
               <ul class="slides">
-            <li> <img src="img/slide-1.jpg" alt="" > </li>
-            <li> <img src="img/slide-2.jpg" alt="" > </li>
-            <li> <img src="img/slide-3.jpg" alt="" > </li>
-            <li> <img src="img/slide-4.jpg" alt="" > </li>
-            <li> <img src="img/slide-5.jpg" alt="" > </li>
+            <li> <img src="img/slide/foto-instantanea.jpg" alt="foto cabine instantanea para festas" > </li>
+            <li> <img src="img/slide/scrapbook.jpg" alt="foto lembrança personalizado - scrapbook e fotolivro" > </li>
+            <li> <img src="img/slide/foto-lembranca-infantil.jpg" alt="foto lembrança para festas infantis"> </li>
+            <li> <img src="img/slide/foto-lembranca-casamento.jpg" alt="foto cabine e totem fotografico para casamentos - O melhor preço do Recife"> </li>
+            <li> <img src="img/slide/foto-cabine.jpg" alt="foto cabine e totem fotografico para festas - O melhor preço do Recife" > </li>
           </ul>
             </div>
         <span id="responsiveFlag"></span>
         <div class="block-slogan">
-              <h2>Foto Lembrança</h2>
+              <h1>Foto Lembrança</h1>
               <div>
             <p>SelfieMais dispõe de serviços de foto lembranças e mini studio em eventos, atendendo aos mais diversos tipos de clientes, tanto pessoas físicas, em eventos sociais como casamentos, formaturas e festas de aniversários, quanto pessoas jurídicas em eventos corporativos.</p>
           </div>
@@ -54,7 +54,7 @@ include 'php/header.php';
               <li class="span3">
                   <div class="thumbnail thumbnail-1">
                 <h3>Casamentos</h3>
-                <img  src="img/page1-img3.jpg" alt="">
+                <img  src="img/lembranca-casamento.jpg" alt="foto lembrança para casamento em Recife">
                 <section> <strong>Lembrança para casamento</strong>
                 <p>As Fotos instantâneas da SelfieMais proporcionam uma criativa lembrança para casamento.</p>
                  <!-- <a href="#" class="btn btn-1">Read More</a> --></section>
@@ -64,7 +64,7 @@ include 'php/header.php';
             <li class="span3">
                   <div class="thumbnail thumbnail-1">
                 <h3>Formaturas</h3>
-                <img  src="img/page1-img1.jpg" alt="">
+                <img  src="img/foto-cabine-formatura.jpg" alt="foto cabine para festas em Recife">
                 <section> <strong>Foto lembrança para formaturas</strong>
                 <p>O baile de formatura é um momento especial, e nada melhor do que uma foto lembrança para registrá-lo de forma divertida.</p>
                      <!--  <a href="#" class="btn btn-1">Read More</a> --></section>
@@ -73,7 +73,7 @@ include 'php/header.php';
             <li class="span3">
                   <div class="thumbnail thumbnail-1">
                 <h3>Aniversários</h3>
-                <img  src="img/page1-img2.jpg" alt="">
+                <img  src="img/foto-cabine-festa-15-anos.jpg" alt="totem fotografico e foto cabine para aniversário de 15 anos">
                 <section> <strong>Uma data especial merece uma lembrança inesquecível</strong>
                 <p> O totem de fotos permite a interação, anima e também diverti os convidados durante a festa. </p>
                       <!-- <a href="#" class="btn btn-1">Read More</a> --> </section>
@@ -83,7 +83,7 @@ include 'php/header.php';
             <li class="span3">
                   <div class="thumbnail thumbnail-1">
                 <h3 class="title-1 extra">Confraternizações</h3>
-                <img  src="img/page1-img4.jpg" alt="">
+                <img  src="img/foto-lembranca-evento.jpg" alt="foto lembrança para eventos com o melhor preço do Recife">
                 <section> <strong>Alegria e o melhor preço para seu evento</strong>
                 <p>A selfieMais oferece para a sua empresa o serviço e o preço, que mais se adequam a sua necessidade e ao seu evento.</p>
                   <!-- <a href="#" class="btn btn-1">Read More</a> --></section>
@@ -98,7 +98,7 @@ include 'php/header.php';
         <article class="span6">
               <h3>Saiba Mais</h3>
               <div class="wrapper">
-            <figure class="img-indent"><img src="img/page1-img5.jpg " alt="" /></figure>
+            <figure class="img-indent"><img src="img/totem-fotografico.jpg " alt="totem fotografico" /></figure>
             <div class="inner-1 overflow extra">
                   <div class="txt-1">A selfiemais faz fotos instantâneas e personalizadas, uma recordação inesquecível de um grande dia.</div>
                 Provida sempre de alta tecnologia e design moderno, atua na Região metropolitana do Recife, e é uma ótima opção para qualquer tipo de evento, seja ele: Casamento, formaturas, aniversários, confraternizações, eventos coorporativos e outros.

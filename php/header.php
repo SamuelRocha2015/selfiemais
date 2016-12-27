@@ -8,7 +8,7 @@
             <div class="nav-collapse nav-collapse_  collapse">
                   <ul class="nav sf-menu">
                 <li ><a href="index.php">Home</a></li>
-                <li><a href="totem-de-fotos.php">Totem</a></li>
+                <li><a href="totem-fotografico.php">Totem</a></li>
                 <!-- <li><a href="index-2.html">Folio</a></li>-->
                 <li><a target="_blank"  href="http://blog.selfiemais.com.br/">Blog</a></li>
                 <li><a href="contato.php">Contato</a></li>

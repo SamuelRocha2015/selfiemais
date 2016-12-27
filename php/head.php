@@ -1,10 +1,8 @@
-	<title>SelfieMais | Foto Lembrança, Lembrança casamento, Cabine foto - Os melhores preços do Recife</title>
+	<title>SelfieMais | Foto Lembrança, Lembrança casamento, Foto cabine, Totem fotografico - Os melhores preços do Recife</title>
 	<meta charset="utf-8">
 	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="img/logomarca_icon.png" type="image/x-icon" />
-	<meta name="description" content="Your description">
-	<meta name="keywords" content="Your keywords">
-	<meta name="author" content="Your name">
+	<meta name="description" content="Quer contratar foto cabine ou totem fotografico para a sua festa? Com o melhor preço do Recife? A SelfieMais oferece as melhores fotos lembranças da Região com os melhores preços. Inovação e tecnologia para o seu evento.">
 
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">

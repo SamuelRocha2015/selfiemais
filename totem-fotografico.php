@@ -29,24 +29,27 @@ include 'php/header.php';
 
           <ul class="list-blog">
             <li>  
-            <h3>Totem de Fotos SelfieMais</h3>     
-            <p>Com design moderno e inovador, o Totem SelfieMais oferece maior agilidade na instalação e com seu layout compacto e enxuto requer menor espaço, atendendo eventos de pequeno e grande porte. <br />
-            O totem de fotos é uma ótima opção para eventos sociais e festas, como aniversários de 15 anos, casamentos, formaturas e festas infantis. </p>
+              <div itemscope itemtype="http://schema.org/Product">
+                  <h2><span itemprop="name">Totem Fotografico SelfieMais</span></h2>     
+              </div>
+
+              <p>Com design moderno e inovador, o Totem SelfieMais oferece maior agilidade na instalação e com seu layout compacto e enxuto requer menor espaço, atendendo eventos de pequeno e grande porte. <br />
+              O totem de fotos é uma ótima opção para eventos sociais e festas, como aniversários de 15 anos, casamentos, formaturas e festas infantis. </p>
 
 
-            <div class="clear"></div>            
-              <img alt="" src="img/page4-img1.jpg">
-                    </li>  
+              <div class="clear"></div>            
+              <img alt="Totem fotografico para casamentos" src="img/totem-fotografico-casamento.jpg">
+            </li>  
           
                                  
           </ul>
               <h3>Como Funciona</h3>                                  
               
-              <p>Seus convidados posicionam-se em frente ao totem de fotos, posam para a câmera e em poucos segundo uma foto com quatro poses e com uma borda personalizada com a marca de sua empresa ou de seu evento é tirada.</p>
+              <p>Seus convidados posicionam-se em frente ao totem fotografico, posam para a câmera e em poucos segundo uma foto com quatro poses e uma borda personalizada com a marca de sua empresa ou de seu evento é tirada.</p>
 
               <h3>Qualidade</h3>                                  
               
-              <p>Nossas fotos possuem alta qualidade, pois usamos os melhores materiais, o que garante uma impressão impecável. Além disso, contamos com iluminação adequada para garantir as melhores imagens possíveis. Os promotores irão auxiliar os convidados durante o evento.</p>
+              <p>Nossas fotos possuem alta qualidade, pois usamos os melhores materiais, o que garante uma impressão impecável. Além disso, contamos com iluminação adequada para garantir as melhores imagens possíveis. Os promotores irão auxiliar os convidados durante todo o evento.</p>
 
               <h3>Personalização</h3>                                  
               
@@ -58,7 +61,7 @@ include 'php/header.php';
       
           <h3>Inclusos</h3>
           <ul class="list extra extra1">           
-            <li><a href="#">Totem de fotos</a></li>
+            <li><a href="#">Totem fotografico</a></li>
             <li><a href="#">Fotos ilimitadas</a></li>
             <li><a href="#">Personalização das fotos</a></li>
             <li><a href="#">Scrapbook</a></li>
