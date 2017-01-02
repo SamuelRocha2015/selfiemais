@@ -75,15 +75,15 @@ include 'php/header.php';
         <article class="span4">
               <h3>Nosso Endereço</h3>
               <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.1968053911046!2d-34.90527138522134!3d-7.874465094326761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab151e9976a83b%3A0x476441c2b438588b!2sR.+Frei+Miguelinho%2C+299+-+Inhama%2C+Igarassu+-+PE!5e0!3m2!1spt-BR!2sbr!4v1479705658700"> </iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.611507733633!2d-34.90190754986578!3d-8.038927682472538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab18f8dfe28735%3A0x82a417ecf0cdb89!2sShopping+ETC!5e0!3m2!1spt-BR!2sbr!4v1483324340981"> </iframe>
           </div>
               <address class="address-1">
-          <strong>R. Frei Miguelinho,<br>
-              299 - Cruz de <br>
-              Rebouças - Igarassu, PE.
+          <strong>Av. Conselheiro<br> Rosa e Silva, 1460<br>
+               Aflitos - Recife, PE. <br>
+               Empresarial Executive Trade Center - ETC.
             </strong>
           <div class="overflow"> 
-              <span>Telefone/Whatsapp:</span><br />81 9.97635948 / 81 9.85886047<br>
+              <span>Fone/Whatsapp:</span><br />81 9.97635948 / 81 9.85886047<br>
                 <!--<span>Telefone:</span>+1 800 603 6035<br>-->
                 <!--<span>Whatsapp:</span>+1 800 889 9898 <br>-->
                 <span>E-mail:</span> <a class="mail-1">contato@selfiemais.com.br</a><br>
