@@ -10,6 +10,6 @@
           <li><a class="icon-8" target="_blank" href="https://goo.gl/wyDt5k"></a></li>
           <!--<li><a class="icon-4" target="_blank" href="#"></a></li>-->
   </ul>
-    <div class="privacy pull-left">Website desenvolvido por <br /><a href="http://codeshouse.com.br" target="_blank">CodesHouse Treinamentos e Consultorias</a>.</div>
+    <div class="privacy pull-left">© 2017 SelfieMais. <br />Todos os direitos reservados. </div>
   
   </div>

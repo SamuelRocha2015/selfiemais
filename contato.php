@@ -59,6 +59,12 @@ include 'php/header.php';
                     <span class="error">*Informe um email válido.</span> <span class="empty">*Este campo é obrigatório.</span> </label>
                     </div>
                 <div>
+                    <label class="date">
+                    <input type="date" placeholder="Data do evento" id="date" name="date">
+                    <br>
+                    </label>
+                    </div>
+                <div>
                     <label class="message">
                     <textarea name="message" id="message" placeholder="Mensagem"></textarea>
                     <br>
@@ -83,7 +89,7 @@ include 'php/header.php';
                Empresarial Executive Trade Center - ETC.
             </strong>
           <div class="overflow"> 
-              <span>Fone/Whatsapp:</span><br />81 9.97635948 / 81 9.85886047<br>
+              <span>Fone/Whatsapp:</span><br />81 30781175 / 81 9.85886047<br>
                 <!--<span>Telefone:</span>+1 800 603 6035<br>-->
                 <!--<span>Whatsapp:</span>+1 800 889 9898 <br>-->
                 <span>E-mail:</span> <a class="mail-1">contato@selfiemais.com.br</a><br>

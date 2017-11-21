@@ -7,7 +7,7 @@ $nome = $_POST['name'];
 $email = $_POST['email'];
 $fone = $_POST['phone'];
 $mensagem = $_POST['message'];
-
+$data = $_POST['date'];
 
 
 //'===================Envia Email===================''
@@ -15,7 +15,7 @@ $mensagem = $_POST['message'];
 // emails para quem será enviado o formulário
 $emailenviar = "contato@selfiemais.com.br";
 $assunto = "SelfieMais - Contato pelo site";
-$corpoEmail = " Nome: $nome - Email: $email  -Fone: $fone <br/>  Mensagem: $mensagem";
+$corpoEmail = " Nome: $nome - Email: $email - Fone: $fone - Data do Evento: $data <br/>  Mensagem: $mensagem";
 
 // É necessário indicar que o formato do e-mail é html
 $headers  = "MIME-Version: 1.0\n";
