@@ -17,7 +17,7 @@
                     </ul>
                   </li>
 
-                  <li><a target="_blank"  href="http://blog.selfiemais.com.br/">Blog</a></li>
+                  <!-- <li><a target="_blank"  href="http://blog.selfiemais.com.br/">Blog</a></li> -->
                   <li><a href="contato.php">Contato</a></li>
                 </ul>
               </div>

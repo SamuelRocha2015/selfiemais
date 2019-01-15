@@ -89,10 +89,10 @@ include 'php/header.php';
                Empresarial Executive Trade Center - ETC.
             </strong>
           <div class="overflow"> 
-              <span>Fone/Whatsapp:</span><br />81 30781175 / 81 9.85886047<br>
+              <span>Fone/Whatsapp:</span><br />81 9.83346146 / 81 9.83690493<br>
                 <!--<span>Telefone:</span>+1 800 603 6035<br>-->
                 <!--<span>Whatsapp:</span>+1 800 889 9898 <br>-->
-                <span>E-mail:</span> <a class="mail-1">contato@selfiemais.com.br</a><br>
+                <span>E-mail:</span> <a class="mail-1">suporte.selfiemais@gmail.com</a><br>
                <!-- <span>Skype:</span> <a href="#" class="mail-1">@skypename</a></div>-->
           </address>
             </article>
